@@ -169,6 +169,24 @@ p.note { display: none; }
 <div class="media-container">
 
 <h2><span class="yellow">開会式から各競技のスタートの画像集です</span></h2>
+
+<a href="20260628_072.jpg" target="_blank"><img src="20260628_072.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260628_073.jpg" target="_blank"><img src="20260628_073.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260628_074.jpg" target="_blank"><img src="20260628_074.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260628_075.jpg" target="_blank"><img src="20260628_075.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260628_076.jpg" target="_blank"><img src="20260628_076.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260628_077.jpg" target="_blank"><img src="20260628_077.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260628_078.jpg" target="_blank"><img src="20260628_078.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260628_079.jpg" target="_blank"><img src="20260628_079.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260628_080.jpg" target="_blank"><img src="20260628_080.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260628_081.jpg" target="_blank"><img src="20260628_081.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260628_082.jpg" target="_blank"><img src="20260628_082.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260628_083.jpg" target="_blank"><img src="20260628_083.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260628_084.jpg" target="_blank"><img src="20260628_084.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260628_085.jpg" target="_blank"><img src="20260628_085.jpg" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">ここまで、田中さん撮影画像<br>以下は羽田撮影画像</span></h2>
+
 <a href="20260628_001.webp" target="_blank">
   <picture>
     <source srcset="20260628_001.webp" type="image/webp">
