@@ -185,7 +185,7 @@ p.note { display: none; }
 <a href="20260628_084.jpg" target="_blank"><img src="20260628_084.jpg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260628_085.jpg" target="_blank"><img src="20260628_085.jpg" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">ここまで、田中さん撮影画像<br>以下は羽田撮影画像</span></h2>
+<h2><span class="yellow">ここまで、田中さん撮影画像<br><br>以下は羽田撮影画像</span></h2>
 
 <a href="20260628_001.webp" target="_blank">
   <picture>
